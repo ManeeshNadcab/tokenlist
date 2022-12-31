@@ -1659,6 +1659,19 @@
             "decimalLimit":4
         },
         {
+            "id": 1,
+            "symbol": "INRx",
+            "name": "INRx",
+            "token_address": "0x9C88330C8aB3Cf53EeF61F4b2E7b2eC8c1e7E164",
+            "decimal": 2,
+            "price_inr": 1,
+            "raw_price_inr": 88632.14984657244,
+            "direction_inr": "down",
+            "icon": "https://rabbit.analogscan.com/images/inrx.png",
+            "isVerified": true,
+            "decimalLimit":4
+        },
+        {
             "symbol": "BTC",
             "name": "BTC Token",
             "token_address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
