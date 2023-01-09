@@ -83,7 +83,8 @@
         {
             "symbol": "DOGE",
             "name": "Dogecoin Token",
-            "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+            "real_token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+            "token_address": "0xb2dc4287C4dd7553d9Fd102F038e3025880aaCA5",
             "decimal": 18,
             "price_inr": 0,
             "direction_inr": "down",
@@ -1729,7 +1730,8 @@
         {
             "symbol": "DOGE",
             "name": "Dogecoin Token",
-            "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+            "real_token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+            "token_address":"0xb2dc4287C4dd7553d9Fd102F038e3025880aaCA5",
             "decimal": 18,
             "price_inr": 0,
             "direction_inr": "down",
@@ -3362,7 +3364,8 @@
         {
             "symbol": "DOGE",
             "name": "Dogecoin Token",
-            "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+            "real_token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+            "token_address":"0xb2dc4287C4dd7553d9Fd102F038e3025880aaCA5",
             "decimal": 18,
             "price_inr": 0,
             "direction_inr": "down",
