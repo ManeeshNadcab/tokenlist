@@ -4929,18 +4929,6 @@
             "decimalLimit":4
         },
         {
-            "id": 1000,
-            "symbol": "BNB",
-            "name": "BNB",
-            "token_address": "0xaDedafdC2bC2c10c528905d5832E6A66B7513A64",
-            "decimal": 18,
-            "price_inr": 30000,
-            "direction_inr": "down",
-            "icon": "https://w7.pngwing.com/pngs/1007/775/png-transparent-bnb-cryptocurrencies-'icon'.png",
-            "isVerified": true,
-            "decimalLimit":4
-        },
-        {
             "symbol": "BTC",
             "name": "BTC Token",
             "token_address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
