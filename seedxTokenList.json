@@ -7,7 +7,7 @@
         "protocol": "Blockchain",
         "type": "Bep20",
         "price_inr": 0,
-        "direction_inr": "down",
+        "direction_inr": "down",  
         "icon": "",
         "isVerified": true
       },
