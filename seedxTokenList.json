@@ -1,6 +1,7 @@
 [
     {
         "symbol": "BNB",
+        "name": "Bep20 BNB",
         "token_address": "0x931Bf638fC27499506a4C1446e5f905b0EC73C81",
         "decimal": 18,
         "supply": "21M",
@@ -13,6 +14,7 @@
       },
       {
         "symbol": "INRx",
+        "name": "INRX",
         "token_address": "0xDD9a71c92bBf35A2546321A82C88C02a00E27B44",
         "decimal": 2,
         "supply": "21M",
