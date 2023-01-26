@@ -1,5 +1,29 @@
 [
     {
+        "symbol": "BNB",
+        "token_address": "0x931Bf638fC27499506a4C1446e5f905b0EC73C81",
+        "decimal": 18,
+        "supply": "21M",
+        "protocol": "Blockchain",
+        "type": "Bep20",
+        "price_inr": 0,
+        "direction_inr": "down",
+        "icon": "",
+        "isVerified": true
+      },
+      {
+        "symbol": "INRx",
+        "token_address": "0xDD9a71c92bBf35A2546321A82C88C02a00E27B44",
+        "decimal": 2,
+        "supply": "21M",
+        "protocol": "Blockchain",
+        "type": "Log20",
+        "price_inr": 0,
+        "direction_inr": "down",
+        "icon": "",
+        "isVerified": true
+      },
+    {
         "symbol": "BTC",
         "name": "BTC Token",
         "token_address": "0x8C9d4546Bc8c583bDD5F4c35F65709695085947F",
