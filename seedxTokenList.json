@@ -9,7 +9,7 @@
         "type": "Bep20",
         "price_inr": 0,
         "direction_inr": "down",  
-        "icon": "",
+        "icon": "https://bscscan.com/token/images/binance_32.png",
         "isVerified": true
       },
       {
