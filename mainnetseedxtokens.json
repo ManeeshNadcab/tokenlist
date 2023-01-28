@@ -10,7 +10,13 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/btcb_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
+
     },
     {
         "symbol": "USD",
@@ -23,7 +29,13 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/busdt_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
+
     },
     {
         "symbol": "USDC",
@@ -36,7 +48,13 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/centre-usdc_28.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
+
     },
     {
         "symbol": "BUSD",
@@ -49,7 +67,13 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/busd_32_2.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
+
     },
     {
         "symbol": "XRP",
@@ -62,7 +86,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/xrp_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":6,"inrx":2}
     },
     {
         "symbol": "DOGE",
@@ -75,7 +104,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/dogecoin_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":5,"btc":8,"bnb":5,"inrx":2}
     },
     {
         "symbol": "ADA",
@@ -88,7 +122,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/cardano_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":6,"inrx":2}
     },
     {
         "symbol": "DOT",
@@ -101,7 +140,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/polkadot_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":7,"bnb":5,"inrx":2}
     },
     {
         "symbol": "DAI",
@@ -114,7 +158,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/dai_32.png",
-        "isVerified": true
+        "isVerified": true, 
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "LTC",
@@ -127,7 +176,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/litecoin_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":6,"bnb":4,"inrx":2}
     },
     {
         "symbol": "SHIB",
@@ -140,7 +194,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/shibatoken_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":8,"btc":8,"bnb":8,"inrx":2}
     },
     {
         "symbol": "UNI",
@@ -153,7 +212,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/uniswap_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":7,"bnb":5,"inrx":2}
     },
     {
         "symbol": "ETH",
@@ -166,7 +230,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":7,"bnb":0,"inrx":2}
     },
     {
         "symbol": "AVAX",
@@ -179,7 +248,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/avax_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":7,"bnb":5,"inrx":2}
     },
     {
         "symbol": "LINK",
@@ -192,7 +266,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/chainlink_32.png?v=2",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":7,"bnb":5,"inrx":2}
     },
     {
         "symbol": "ATOM",
@@ -205,7 +284,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/cosmos_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":5,"btc":7,"bnb":5,"inrx":2}
     },
     {
         "symbol": "ETC",
@@ -218,7 +302,13 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/ethclassic_32.png?v=1",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":6,"bnb":4,"inrx":2}
+
     },
     {
         "symbol": "BTT",
@@ -231,7 +321,13 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/bittorrent_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
+
     },
     {
         "symbol": "BCH",
@@ -244,7 +340,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/bitcoincash_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":1,"btc":5,"bnb":3,"inrx":2}
     },
     {
         "symbol": "FIL",
@@ -257,7 +358,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/filecoin_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":7,"bnb":5,"inrx":2}
     },
     {
         "symbol": "NEAR",
@@ -270,7 +376,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/near_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":7,"bnb":6,"inrx":2}
     },
     {
         "symbol": "FLOW",
@@ -283,7 +394,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/onflow_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":8,"bnb":6,"inrx":2}
     },
     {
         "symbol": "EGLD",
@@ -296,7 +412,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/elrond_32.png?v=2",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":6,"bnb":4,"inrx":2}
     },
     {
         "symbol": "PAX",
@@ -309,7 +430,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/paxos_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":5,"bnb":3,"inrx":2}
     },
     {
         "symbol": "USDP",
@@ -322,7 +448,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/paxdollar_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "XTZ",
@@ -335,7 +466,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/tezos_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":8,"bnb":6,"inrx":2}
     },
     {
         "symbol": "AAVE",
@@ -348,7 +484,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/aave_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":1,"btc":6,"bnb":4,"inrx":2}
     },
     {
         "symbol": "TUSD",
@@ -361,7 +502,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/trueusd_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "AXS",
@@ -374,7 +520,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/axieinfinity_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":6,"bnb":4,"inrx":2}
     },
     {
         "symbol": "SNX",
@@ -387,7 +538,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/snx_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":7,"bnb":5,"inrx":2}
     },
     {
         "symbol": "ZEC",
@@ -400,7 +556,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/zcash_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":1,"btc":6,"bnb":4,"inrx":2}
     },
     {
         "symbol": "PAXG",
@@ -413,7 +574,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/paxosgold_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":5,"bnb":3,"inrx":2}
     },
     {
         "symbol": "XEC",
@@ -426,7 +592,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/ecash_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":8,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "BAT",
@@ -439,7 +610,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/bat_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "COMP",
@@ -452,7 +628,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/compound_32.png?v1",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":6,"bnb":0,"inrx":2}
     },
     {
         "symbol": "IOTX",
@@ -465,7 +646,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/iotex_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":5,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "YFI",
@@ -478,7 +664,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/yfi_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":4,"bnb":0,"inrx":2}
     },
     {
         "symbol": "ONT",
@@ -491,7 +682,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/ontology_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "NFT",
@@ -504,7 +700,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/apenft_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "KNC",
@@ -517,7 +718,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/knc-crystal_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":8,"bnb":6,"inrx":2}
     },
     {
         "symbol": "SLP",
@@ -530,7 +736,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/slpbsc_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":6,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "COTI",
@@ -543,7 +754,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/coti_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":8,"bnb":7,"inrx":2}
     },
     {
         "symbol": "CTSI",
@@ -556,7 +772,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/ctsi_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":6,"inrx":2}
     },
     {
         "symbol": "BAND",
@@ -569,7 +790,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/bandtoken_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":7,"bnb":0,"inrx":2}
     },
     {
         "symbol": "CELR",
@@ -582,7 +808,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/celernetwork_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":5,"btc":8,"bnb":8,"inrx":2}
     },
     {
         "symbol": "PHA",
@@ -595,7 +826,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/phalanetwork_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "ELF",
@@ -608,7 +844,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/aelf_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "BNT",
@@ -621,7 +862,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/bancor_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "YFII",
@@ -634,7 +880,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/dfimoney_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "IDEX",
@@ -647,7 +898,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/idex_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":5,"btc":8,"bnb":7,"inrx":2}
     },
     {
         "symbol": "KMD",
@@ -660,7 +916,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/komodo_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "PSG",
@@ -673,7 +934,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/psgfc_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":7,"bnb":0,"inrx":2}
     },
     {
         "symbol": "DF",
