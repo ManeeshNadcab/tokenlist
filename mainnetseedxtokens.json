@@ -952,7 +952,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/dforce_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "OM",
@@ -965,7 +970,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/mantradao_32.png?=v019",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "JUV",
@@ -978,7 +988,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/juvfc_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":7,"bnb":0,"inrx":2}
     },
     {
         "symbol": "ATM",
@@ -991,7 +1006,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/atmadrid_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":7,"bnb":0,"inrx":2}
     },
     {
         "symbol": "TORN",
@@ -1004,7 +1024,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/torn_32.png?v=2",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "OG",
@@ -1017,7 +1042,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/ogfan_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":7,"bnb":0,"inrx":2}
     },
     {
         "symbol": "TCT",
@@ -1030,7 +1060,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/tokenclub_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "FIRO",
@@ -1043,7 +1078,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/firo_32.png?v=2",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":7,"bnb":0,"inrx":2}
     },
     {
         "symbol": "BETH",
@@ -1056,7 +1096,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/binance-beth_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "SUSHI",
@@ -1069,7 +1114,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/sushiswap_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":7,"bnb":5,"inrx":2}
     },
     {
         "symbol": "BSC-USD",
@@ -1082,7 +1132,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/busdt_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "TWT",
@@ -1095,7 +1150,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/trust_32.png?v=1",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "USDN",
@@ -1108,7 +1168,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/neutrinousd_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "BNX",
@@ -1121,7 +1186,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/binaryx_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":1,"btc":6,"bnb":4,"inrx":2}
     },
     {
         "symbol": "ZIL",
@@ -1134,7 +1204,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/zilliqa_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":5,"btc":8,"bnb":7,"inrx":2}
     },
     {
         "symbol": "ANKR",
@@ -1147,7 +1222,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/ankr_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":5,"btc":8,"bnb":7,"inrx":2}
     },
     {
         "symbol": "ONT",
@@ -1160,7 +1240,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/ontology_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "WOO",
@@ -1173,7 +1258,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":6,"inrx":2}
     },
     {
         "symbol": "SXP",
@@ -1186,7 +1276,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/swipe_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":6,"inrx":2}
     },
     {
         "symbol": "INJ",
@@ -1199,7 +1294,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/injective_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":7,"bnb":5,"inrx":2}
     },
     {
         "symbol": "WIN",
@@ -1212,7 +1312,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/wink_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":false ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":7,"btc":0,"bnb":8,"inrx":2}
     },
     {
         "symbol": "HERO",
@@ -1225,7 +1330,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/metahero_32.png?v=2",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "GMT",
@@ -1238,7 +1348,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/gominingtoken_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":6,"inrx":2}
     },
     {
         "symbol": "PROS",
@@ -1251,7 +1366,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/prosper_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "ALEPH",
@@ -1264,7 +1384,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/aleph_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "FRONT",
@@ -1277,7 +1402,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/frontier_32.png?=v1",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "PRQ",
@@ -1290,7 +1420,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/parsiqtoken_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "URUS",
@@ -1303,7 +1438,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/getaurox_32.png?=v23",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "FOR",
@@ -1316,7 +1456,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/forceprotocol_32.png?v=5",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":5,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "OVR",
@@ -1329,7 +1474,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/ovr_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":7,"bnb":0,"inrx":2}
     },
     {
         "symbol": "DVI",
@@ -1342,7 +1492,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/dvisionneworkt_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "LSS",
@@ -1355,7 +1510,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/lossless_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "HAI",
@@ -1368,7 +1528,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/hacken_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "EPIC",
@@ -1381,7 +1546,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/epictech_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "BUX",
@@ -1394,7 +1564,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/bux_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "ALU",
@@ -1407,7 +1582,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/alturanft2_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "CAS",
@@ -1420,7 +1600,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/cashaa_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "POOLZ",
@@ -1433,7 +1618,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/poolzfinance_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "XTM",
@@ -1446,7 +1636,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/torum_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "FUSE",
@@ -1459,7 +1654,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/fusetokenonbsc_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "MINT",
@@ -1472,7 +1672,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/mintclub_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "MOOV",
@@ -1485,7 +1690,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "OOE",
@@ -1498,7 +1708,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/openocean_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "BRBC",
@@ -1511,7 +1726,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/rubicfinance_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "O3",
@@ -1524,7 +1744,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/o3swap_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "JGN",
@@ -1537,7 +1762,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/juggernaut_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "XEND",
@@ -1550,7 +1780,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/xendfinance_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "FREE",
@@ -1563,7 +1798,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/freecoin_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "XFT",
@@ -1576,7 +1816,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/offshift_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "BCDT",
@@ -1589,7 +1834,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/evidenzV2_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "PING",
@@ -1602,7 +1852,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/sonar_3_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "HZN",
@@ -1615,7 +1870,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/horizonprotocol_32.png?=v3",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "vSXP",
@@ -1628,7 +1888,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/venus-vsxp_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":6,"inrx":2}
     },
     {
         "symbol": "GTON",
@@ -1641,7 +1906,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/graviton_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "1ART",
@@ -1654,7 +1924,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/artwallet_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "iDNA",
@@ -1667,7 +1942,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/idena_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "WGRLC",
@@ -1680,7 +1960,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/garliccoin_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "TUP",
@@ -1693,7 +1978,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/tenup_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "JulD",
@@ -1706,7 +1996,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/justliquidity-juld_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "PERI",
@@ -1719,7 +2014,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/perifinance_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "PHNX",
@@ -1732,7 +2032,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "BEL",
@@ -1745,7 +2050,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/bella_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":8,"bnb":6,"inrx":2}
     },
     {
         "symbol": "CHESS",
@@ -1758,7 +2068,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/tranchess_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "MOD",
@@ -1771,7 +2086,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/modefi_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "KALM",
@@ -1784,7 +2104,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/kalmar_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "MTV",
@@ -1797,7 +2122,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/multivac_32.png?v=2",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "WNAV",
@@ -1810,7 +2140,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "HAM",
@@ -1823,7 +2158,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/hamsterfinance_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "BIFI",
@@ -1836,7 +2176,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/beefy_32.png?=v1",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":1,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "TPT",
@@ -1849,7 +2194,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/tokenpocket_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "XPR",
@@ -1862,7 +2212,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/proton_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "AIOZ",
@@ -1873,7 +2228,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/aioznetwork_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "LINA",
@@ -1886,7 +2246,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/linear_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":6,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "LTO",
@@ -1899,7 +2264,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/ltonetwork_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "SPS",
@@ -1912,7 +2282,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "YooShi",
@@ -1925,7 +2300,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "BAKE",
@@ -1938,7 +2318,12 @@
         "price_inr": "dex",
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/bakeryswap_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":6,"inrx":2}
     },
     {
         "symbol": "SUPER",
@@ -1951,7 +2336,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/superfarm_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "SFUND",
@@ -1964,7 +2354,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/seedify_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "ADS",
@@ -1977,7 +2372,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/adshares_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "DODO",
@@ -1990,7 +2390,12 @@
         "price_inr": "dex",
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/dodobird_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":8,"bnb":0,"inrx":2}
     },
     {
         "symbol": "XVS",
@@ -2003,7 +2408,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/venusxvs_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":7,"bnb":5,"inrx":2}
     },
     {
         "symbol": "VAI",
@@ -2016,7 +2426,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/venus-vai_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "QUACK",
@@ -2029,7 +2444,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/richquack_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "CTK",
@@ -2042,7 +2462,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/certik_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":8,"bnb":6,"inrx":2}
     },
     {
         "symbol": "Prom",
@@ -2055,7 +2480,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/prom_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":7,"bnb":5,"inrx":2}
     },
     {
         "symbol": "RACA",
@@ -2068,7 +2498,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/radiocaca_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "BSW",
@@ -2081,7 +2516,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/biswap_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":false ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":4,"btc":0,"bnb":7,"inrx":2}
     },
     {
         "symbol": "TIME",
@@ -2094,7 +2534,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/chronotech_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "CEEK",
@@ -2107,7 +2552,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/ceek_32.png?=v1",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "ANY",
@@ -2120,7 +2570,12 @@
         "price_inr": "Dex",
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/anyswap_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "vUSDC",
@@ -2133,7 +2588,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/venus-vusdc_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "BRISE",
@@ -2146,7 +2606,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/bitrisetoken_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":false,
+        "ispaired_btc":false ,
+        "ispaired_bnb":false ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
     },
     {
         "symbol": "MBOX",
@@ -2159,6 +2624,11 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/mobox_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":3,"btc":8,"bnb":6,"inrx":2}
     }
 ]
