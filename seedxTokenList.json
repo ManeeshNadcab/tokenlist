@@ -10,7 +10,12 @@
         "price_inr": 0,
         "direction_inr": "down",  
         "icon": "https://bscscan.com/token/images/binance_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
       },
       {
         "symbol": "INRx",
@@ -23,7 +28,12 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd":true,
+        "ispaired_btc":true ,
+        "ispaired_bnb":true ,
+        "ispaired_inrx":true ,
+        "decimalLimit":{"busd":2,"btc":2,"bnb":2,"inrx":2}
       },
     {
         "symbol": "BTC",
