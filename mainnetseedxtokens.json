@@ -16,7 +16,6 @@
         "ispaired_bnb":true ,
         "ispaired_inrx":true ,
         "decimalLimit":{"busd":0,"btc":0,"bnb":0,"inrx":2}
-
     },
     {
         "symbol": "USD",
