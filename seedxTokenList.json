@@ -246,9 +246,9 @@
         "icon": "https://bscscan.com/token/images/uniswap_32.png",
         "isVerified": true,
         "ispaired_busd":true,
-        "ispaired_btc":true ,
-        "ispaired_bnb":true ,
-        "ispaired_inrx":true ,
+        "ispaired_btc":false,
+        "ispaired_bnb":false,
+        "ispaired_inrx":true,
         "decimalLimit":{"busd":3,"btc":7,"bnb":5,"inrx":2}
     },
     {
