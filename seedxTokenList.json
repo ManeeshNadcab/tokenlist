@@ -176,7 +176,7 @@
         "ispaired_busd":true,
         "ispaired_btc":true ,
         "ispaired_bnb":true ,
-        "ispaired_inrx":true ,
+        "ispaired_inrx":false ,
         "decimalLimit":{"busd":8,"btc":8,"bnb":8,"inrx":2}
     },
     {
