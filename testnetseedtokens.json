@@ -10,7 +10,17 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/btcb_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 0,
+            "btc": 0,
+            "bnb": 0,
+            "inrx": 2
+        }
     },
     {
         "symbol": "ETH",
@@ -23,7 +33,17 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 2,
+            "btc": 7,
+            "bnb": 0,
+            "inrx": 2
+        }
     },
     {
         "symbol": "USD",
@@ -36,7 +56,17 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/busdt_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 0,
+            "btc": 0,
+            "bnb": 0,
+            "inrx": 2
+        }
     },
     {
         "symbol": "BUSD",
@@ -49,7 +79,17 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/busd_32_2.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 0,
+            "btc": 0,
+            "bnb": 0,
+            "inrx": 2
+        }
     },
     {
         "symbol": "XRP",
@@ -62,7 +102,17 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/xrp_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 4,
+            "btc": 8,
+            "bnb": 6,
+            "inrx": 2
+        }
     },
     {
         "symbol": "ADA",
@@ -75,7 +125,17 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/cardano_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 4,
+            "btc": 8,
+            "bnb": 6,
+            "inrx": 2
+        }
     },
     {
         "symbol": "DOT",
@@ -88,7 +148,17 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/polkadot_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 3,
+            "btc": 7,
+            "bnb": 5,
+            "inrx": 2
+        }
     },
     {
         "symbol": "SHIB",
@@ -101,7 +171,17 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/shibatoken_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 8,
+            "btc": 8,
+            "bnb": 8,
+            "inrx": 2
+        }
     },
     {
         "symbol": "DOGE",
@@ -114,7 +194,17 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/dogecoin_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 5,
+            "btc": 8,
+            "bnb": 5,
+            "inrx": 2
+        }
     },
     {
         "symbol": "USDC",
@@ -127,7 +217,17 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/centre-usdc_28.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 0,
+            "btc": 0,
+            "bnb": 0,
+            "inrx": 2
+        }
     },
     {
         "symbol": "AVAX",
@@ -140,7 +240,17 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/avax_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 2,
+            "btc": 7,
+            "bnb": 5,
+            "inrx": 2
+        }
     },
     {
         "symbol": "UNI",
@@ -153,7 +263,17 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/uniswap_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 3,
+            "btc": 7,
+            "bnb": 5,
+            "inrx": 2
+        }
     },
     {
         "symbol": "DAI",
@@ -166,7 +286,17 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/dai_32.png",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 0,
+            "btc": 0,
+            "bnb": 0,
+            "inrx": 2
+        }
     },
     {
         "symbol": "LINK",
@@ -179,6 +309,16 @@
         "price_inr": 0,
         "direction_inr": "down",
         "icon": "https://bscscan.com/token/images/chainlink_32.png?v=2",
-        "isVerified": true
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 3,
+            "btc": 7,
+            "bnb": 5,
+            "inrx": 2
+        }
     }
 ]
