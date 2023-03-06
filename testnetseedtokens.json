@@ -1,5 +1,28 @@
 [
     {
+        "symbol": "BNB",
+        "name": "Bep20 BNB",
+        "token_address": "0x0de8fcae8421fc79b29ade9fff97854a424cad09",
+        "decimal": 18,
+        "supply": "21M",
+        "protocol": "Blockchain",
+        "type": "Bep20",
+        "price_inr": 0,
+        "direction_inr": "down",
+        "icon": "https://bscscan.com/token/images/binance_32.png",
+        "isVerified": true,
+        "ispaired_busd": true,
+        "ispaired_btc": true,
+        "ispaired_bnb": true,
+        "ispaired_inrx": true,
+        "decimalLimit": {
+            "busd": 0,
+            "btc": 0,
+            "bnb": 0,
+            "inrx": 2
+        }
+    },
+    {
         "symbol": "BTC",
         "name": "BTC Token",
         "token_address": "0x8C9d4546Bc8c583bDD5F4c35F65709695085947F",
