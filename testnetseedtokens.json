@@ -94,7 +94,7 @@
     {
         "symbol": "BUSD",
         "name": "BUSD Token",
-        "token_address": "0x94112993c03c097f38aF850852502045F4DDCB7c",
+        "token_address": "0xEa773012280e90BeD2789C3045E765E1Cf788678",
         "supply": "16.37B",
         "protocol": "Stabble coin",
         "decimal": 18,
