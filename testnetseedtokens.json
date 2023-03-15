@@ -12,7 +12,7 @@
         "icon": "https://bscscan.com/token/images/binance_32.png",
         "isVerified": true,
         "ispaired_busd": true,
-        "ispaired_btc": true,
+        "ispaired_btc": false,
         "ispaired_bnb": true,
         "ispaired_inrx": true,
         "decimalLimit": {
@@ -36,7 +36,7 @@
         "isVerified": true,
         "ispaired_busd": true,
         "ispaired_btc": false,
-        "ispaired_bnb": false,
+        "ispaired_bnb": true,
         "ispaired_inrx": true,
         "decimalLimit": {
             "busd": 0,
