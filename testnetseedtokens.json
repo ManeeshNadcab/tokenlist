@@ -39,9 +39,9 @@
         "ispaired_bnb": true,
         "ispaired_inrx": true,
         "decimalLimit": {
-            "busd": 0,
-            "btc": 0,
-            "bnb": 0,
+            "busd": 6,
+            "btc": 7,
+            "bnb": 7,
             "inrx": 2
         }
     },
